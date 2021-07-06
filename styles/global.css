@@ -17,6 +17,7 @@ html{
     --icons-details: #A5B0C1;
 
     --grey-dark: #4D5E77;
+    --grey-medium: #EAECF2;
     --grey-blue: #A1B2CD;
     --grey-light: #E5EAF1;
 
@@ -84,7 +85,6 @@ button > img,
 .button > img{
     margin-right: 1rem;
     width: 2rem;
-
 }
 
 button.outlined,
