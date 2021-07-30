@@ -9,12 +9,10 @@ export default function Modal() {
         //funcionalidade de atribuir a classe active para a modal
         modalWrapper.classList.add("active")
     }
-
     function close() {
         //funcionalidade de remover a classe active da modal
         modalWrapper.classList.remove("active")
     }
-
 
     return {
         open,
